@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Soumya👋
 
 <!--
 **soumyamakkar/soumyamakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Soumya
 
 Currently mastering the art of sleeping, interspersed with occasional bursts of LeetCode. Between LeetCode marathons and development sessions, sleep is my true passion.
 
