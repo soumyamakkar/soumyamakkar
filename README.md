@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am Soumya, and my hobbies include sleeping, grinding leetcode, and writing awesome code. Majorly sleeping...
+## Hi, I'm Soumya
+
+Currently mastering the art of sleeping, interspersed with occasional bursts of LeetCode. 
 
 ### Languages I Use:
 
