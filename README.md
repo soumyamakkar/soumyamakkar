@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -**Languages**:
 ![C++]
 ![Java]
-![Python}
-![C}
+![Python]
+![C]
