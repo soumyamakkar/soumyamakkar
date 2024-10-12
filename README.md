@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-Currently mastering the art of sleeping, interspersed with occasional bursts of LeetCode. Between LeetCode marathons and development sessions, sleep is my true passion.
+Currently mastering the art of sleeping, interspersed with occasional bursts of LeetCode. 
 
 ### Languages I Use:
 
