@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Soumya
 
-Currently mastering the art of sleeping, interspersed with occasional bursts of LeetCode. 
+Currently mastering the art of sleeping, interspersed with occasional bursts of LeetCode. Between LeetCode marathons and development sessions, sleep is my true passion.
 
 ### Languages I Use:
 
