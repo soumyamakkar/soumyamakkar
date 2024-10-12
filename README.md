@@ -2,7 +2,6 @@
 
 <!--
 **soumyamakkar/soumyamakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I am Soumya, and my hobbies include sleeping, grinding leetcode, and writing awesome code. Majorly sleeping...
+
+## My Tech Stack
+-**Languages**:
+![C++]
+![Java]
+![Python}
+![C}
