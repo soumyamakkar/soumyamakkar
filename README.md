@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 
 ## I am Soumya, and my hobbies include sleeping, grinding leetcode, and writing awesome code. Majorly sleeping...
 
-## My Tech Stack
--**Languages**:
-![C++]
-![Java]
-![Python]
-![C]
+### Languages I Use:
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
