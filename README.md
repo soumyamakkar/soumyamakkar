@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 Currently mastering the art of sleeping, interspersed with occasional bursts of LeetCode. 
 
+
+### Profile Visits:
+![Profile Views](https://komarev.com/ghpvc/?username=soumyamakkar&color=blue)
+
+
 ### Languages I Use:
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
