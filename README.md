@@ -55,3 +55,4 @@ Currently mastering the art of sleeping, interspersed with occasional bursts of 
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-282C34?style=flat)
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default)
