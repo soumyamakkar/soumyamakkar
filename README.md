@@ -54,5 +54,3 @@ Currently mastering the art of sleeping, interspersed with occasional bursts of 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-282C34?style=flat)
 
-![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumyaamakkar&theme=github)
-
